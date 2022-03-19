@@ -1,0 +1,37 @@
+[
+  {
+    "name": "设定",
+    "translate": {
+      "zh-CN": "设定持续追加中~",
+      "en-US": "Settingssssss~"
+    }
+  },
+  {
+    "name": "精灵语",
+    "translate": {
+      "zh-CN": "精 灵 语",
+      "en-US": "Seirei Language"
+    }
+  },
+  {
+    "name": "台词/音声",
+    "translate": {
+      "zh-CN": "台词/音声",
+      "en-US": "Voices"
+    }
+  },
+  {
+    "name": "清楚",
+    "translate": {
+      "zh-CN": "清 楚 发 言",
+      "en-US": "ya bai"
+    }
+  },
+  {
+    "name": "哈？",
+    "translate": {
+      "zh-CN": "哈？ x N",
+      "en-US": "hah? x N"
+    }
+  }
+]

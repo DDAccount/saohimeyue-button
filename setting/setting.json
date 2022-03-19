@@ -1,0 +1,53 @@
+{
+  "name": {
+    "CN": {
+      "title": "精灵按钮",
+      "fullName": "SaoHimeYue"
+    },
+    "EN": {
+      "title": "Yue button",
+      "fullName": "SaoHimeYue"
+    }
+  },
+  "readme": "",
+  "header": {
+    "icon": "img/logo.svg",
+    "youtube": "https://www.youtube.com/channel/UCIm8pnnTNhCgGAtNxrQQv-g",
+    "twitter": "https://twitter.com/SaohimeYue",
+    "bilibili": "https://space.bilibili.com/1923344666"
+  },
+  "link": [
+    {
+      "name": "Hiiro按钮",
+      "url": "https://hiiro.club/",
+      "background": "#F5C1BB"
+    },
+    {
+      "name": "七奈按钮",
+      "url": "https://kaguranana.moe/",
+      "background": "#c4afd0"
+    }
+  ],
+  "footer": {
+    "author": [
+      {
+        "name": "DDAccount",
+        "url": "https://github.com/DDAccount"
+      }
+    ],
+    "info": [
+      "<div>感谢原作者blacktunes→<a href=\"https://space.bilibili.com/1384118\" target=\"_blank\">我想改个带咸鱼的名字</a></div>"
+    ],
+    "githubUrl": "https://github.com/blacktunes/hiiro-button"
+  },
+  "console": {
+    "text": "",
+    "size": "",
+    "color": "",
+    "img": "",
+    "imgWidth": "",
+    "imgHeight": ""
+  },
+  "mediaSession": "",
+  "CDN": "https://cdn.jsdelivr.net/gh/DDAccount/saohimeyue-button@master/public/voices"
+}
