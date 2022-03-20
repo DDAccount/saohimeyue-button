@@ -28,10 +28,17 @@
     }
   },
   {
-    "name": "哈？",
+    "name": "Yue耳",
     "translate": {
-      "zh-CN": "哈？ x N",
-      "en-US": "hah? x N"
+      "zh-CN": "Yue耳",
+      "en-US": "funny sound"
+    }
+  },
+  {
+    "name": "精灵唱歌",
+    "translate": {
+      "zh-CN": "精灵唱歌",
+      "en-US": "Singing"
     }
   }
 ]
