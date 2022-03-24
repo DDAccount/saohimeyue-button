@@ -1,0 +1,62 @@
+[
+  {
+    "name": "喵【08】",
+    "path": "喵【08】.mp3",
+    "date": "2022-03-24",
+    "translate": {
+      "zh-CN": "喵【08】",
+      "en-US": "meow[08]"
+    },
+    "category": "Yue耳",
+    "mark": {
+      "title": "【20220318】初次华语歌回！",
+      "time": "0:03:57~0:04:00",
+      "url": "https://www.bilibili.com/video/BV1GU4y1f7jB?p=17"
+    }
+  },
+  {
+    "name": "天路高原",
+    "path": "天路高原.mp3",
+    "date": "2022-03-24",
+    "translate": {
+      "zh-CN": "天路高原",
+      "en-US": "Tian Lu Gao Yuan"
+    },
+    "category": "精灵唱歌",
+    "mark": {
+      "title": "【20220318】初次华语歌回！",
+      "time": "0:58:13~1:01:15",
+      "url": "https://www.bilibili.com/video/BV1GU4y1f7jB?p=17"
+    }
+  },
+  {
+    "name": "哈？【04】",
+    "path": "哈？【04】.mp3",
+    "date": "2022-03-24",
+    "translate": {
+      "zh-CN": "哈？【04】",
+      "en-US": "hah?[04]"
+    },
+    "category": "Yue耳",
+    "mark": {
+      "title": "【20220318】初次华语歌回！",
+      "time": "1:35:30~1:35:38",
+      "url": "https://www.bilibili.com/video/BV1GU4y1f7jB?p=17"
+    }
+  },
+  {
+    "name": "池面精灵",
+    "path": "池面精灵.mp3",
+    "date": "2022-03-24",
+    "translate": {
+      "zh-CN": "池面精灵",
+      "en-US": "handsome Seirei"
+    },
+    "category": "台词/音声",
+    "mark": {
+      "title": "【20220318】初次华语歌回！",
+      "time": "1:41:29~1:41:53",
+      "url": "https://www.bilibili.com/video/BV1GU4y1f7jB?p=17"
+    }
+  }
+]
