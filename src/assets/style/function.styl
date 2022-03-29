@@ -1,3 +1,20 @@
+Seireiears(direction, deg)
+  transform rotate(deg)
+  width 0
+  height 0
+  border-style solid
+  border-width 0 10px 48px 10px
+  border-color transparent transparent $main-color transparent
+  pointer-events none
+  position absolute
+  top -10px
+
+  if (direction == 'left')
+    left 0
+
+  if (direction == 'right')
+    right 0
+
 ears(direction, deg)
   transform rotate(deg)
   width 0

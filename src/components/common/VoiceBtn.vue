@@ -104,7 +104,7 @@ defineExpose({ progress, lowlight, highlight })
   pointer-events none
 
 .wrapper
-  margin 5px
+  margin 15px
   position relative
   transform translate3d(0, 0, 0)
 
@@ -135,10 +135,10 @@ defineExpose({ progress, lowlight, highlight })
     pointer-events none
 
   .left
-    ears('left', -32deg)
+    Seireiears('left', -100deg)
 
   .right
-    ears('right', 32deg)
+    Seireiears('right', 100deg)
 
   .btn
     display flex
