@@ -135,10 +135,10 @@ defineExpose({ progress, lowlight, highlight })
     pointer-events none
 
   .left
-    Seireiears('left', -100deg)
+    elfEars('left', -100deg)
 
   .right
-    Seireiears('right', 100deg)
+    elfEars('right', 100deg)
 
   .btn
     display flex

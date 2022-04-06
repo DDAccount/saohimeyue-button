@@ -140,7 +140,7 @@
     "date": "2022-03-20",
     "translate": {
       "zh-CN": "满月叫【精灵ver】",
-      "en-US": "baby[Seirei ver]"
+      "en-US": "baby[Elf ver]"
     },
     "category": "Yue耳",
     "mark": {
@@ -305,7 +305,7 @@
     "date": "2022-03-20",
     "translate": {
       "zh-CN": "萝莉精灵【01】",
-      "en-US": "Lolita Seirei [01]"
+      "en-US": "Lolita Elf [01]"
     },
     "category": "台词/音声",
     "mark": {
@@ -320,7 +320,7 @@
     "date": "2022-03-20",
     "translate": {
       "zh-CN": "萝莉精灵【02】",
-      "en-US": "Lolita Seirei [02]"
+      "en-US": "Lolita Elf [02]"
     },
     "category": "台词/音声",
     "mark": {
@@ -345,11 +345,11 @@
     }
   },
   {
-    "name": "夹子音，但是擦盘子",
-    "path": "夹子音，但是擦盘子.mp3",
+    "name": "娃娃音，但是擦盘子",
+    "path": "娃娃音，但是擦盘子.mp3",
     "date": "2022-03-20",
     "translate": {
-      "zh-CN": "夹子音，但是擦盘子",
+      "zh-CN": "娃娃音，但是擦盘子",
       "en-US": "hahahahaha"
     },
     "category": "台词/音声",
@@ -380,7 +380,7 @@
     "date": "2022-03-20",
     "translate": {
       "zh-CN": "精灵语可能性微存",
-      "en-US": "Seirei Language ??"
+      "en-US": "Elf Language ??"
     },
     "category": "Yue耳",
     "mark": {
