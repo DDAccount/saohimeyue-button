@@ -8,6 +8,9 @@ process.env.VUE_APP_LAST_UPDATE = Date.now()
  *  @type { Options }
  */
 module.exports = {
+  // publicPath: process.env.NODE_ENV === 'production'
+  //   ? '/SaohimeYue/'
+  //   : '/',
   productionSourceMap: false,
   css: {
     loaderOptions: {
